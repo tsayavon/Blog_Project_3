@@ -1,3 +1,4 @@
+//Dependencies
 const express = require("express");
 const app = express();
 const dotenv = require("dotenv");
@@ -10,6 +11,7 @@ const multer = require("multer");
 const path = require("path");
 const cors = require('cors');
 
+//Configs
 require('dotenv').config();
 app.use(express.json());
 app.use(cors());
@@ -46,6 +48,8 @@ app.use("/api/users", userRoute);
 app.use("/api/posts", postRoute);
 app.use("/api/categories", categoryRoute);
 
+
+//Listener
 app.listen("5000", () => {
   console.log("Backend is running.");
 });
