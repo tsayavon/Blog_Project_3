@@ -14,7 +14,7 @@ Since Spy x Family has been released, I've been a huge fan of it and decided to 
 - Multer
 
 # Getting Started 
-- Trello (Planning)
+- Trello [Planning](https://trello.com/b/H1YwVb3e/project-3-blog)
 - Netlify
 
 # User Stories
@@ -29,5 +29,6 @@ As a user:
 - I would like to have tags or categories to better organize my posts. 
 
 # Unsolved Problems
+- Picture upload function not working.
 
 # Future Enhancements
