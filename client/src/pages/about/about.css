@@ -1,0 +1,133 @@
+.about {
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
+.singlePost {
+    flex: 9;
+}
+
+.singlePostWrapper {
+    padding: 20px;
+    padding-right: 0;
+}
+
+.singlePostImg {
+    width: 100%;
+    height: 500px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+.singlePostTitle {
+    text-align: center;
+    margin: 10px;
+    font-family: 'Lora', serif;
+    font-size: 28px;
+}
+
+.singlePostEdit {
+    float: right;
+    font-size: 16px;
+}
+
+.singlePostInfo {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    color: #b39656;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.singlePostDesc {
+    color: #666;
+    font-size: 18px;
+    line-height: 25px;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.singlePostDesc::first-letter {
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: 600px;
+}
+
+.positionLoid {
+    flex: 5;
+    padding-left: 10%;
+    /* display: flex; */
+    justify-content: center;
+}
+
+.positionAnya {
+    flex: 5;
+    /* display: flex; */
+    justify-content: center;
+}
+
+.positionYor {
+    flex: 5;
+    padding-right: 2%;
+    /* display: flex; */
+    justify-content: center;
+}
+
+.imgLoid {
+    width: 75%;
+    height: 75%;
+    border-radius: 5px;
+    object-fit: fill;
+}
+
+.imgAnya {
+    width: 75%;
+    height: 75%;
+    border-radius: 5px;
+    object-fit: fill;
+}
+
+.imgYor {
+    width: 75%;
+    height: 75%;
+    border-radius: 5px;
+    object-fit: fill;
+}
+
+.titleAnya {
+    margin: 10px;
+    padding: 5px;
+    width: 80%;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 32px;
+    color: #222;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: center;
+}
+
+.titleLoid {
+    margin: 10px;
+    padding: 5px;
+    width: 80%;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 32px;
+    color: #222;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: center;
+}
+
+.titleYor {
+    margin: 10px;
+    padding: 5px;
+    width: 80%;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 32px;
+    color: #222;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: center;
+}
