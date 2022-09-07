@@ -1,4 +1,4 @@
-
+![screenshot](/home/xtmaesa/GA/Blog_Project_3/images/Screenshot_2.png)
 
 # Spy x Family Blog
 I decided to make a blog but I couldn't just make one without a theme!
