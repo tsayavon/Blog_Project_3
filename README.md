@@ -17,7 +17,7 @@ Since Spy x Family has been released, I've been a huge fan of it and decided to 
 
 # Getting Started 
 - Trello [Planning](https://trello.com/b/H1YwVb3e/project-3-blog)
-- Netlify
+
 
 # User Stories
 As a user:
@@ -33,6 +33,7 @@ As a user:
 # Unsolved Problems
 - Picture upload function not working (sometimes).
 - Search icon not functioning.
+- Can not deploy on heroku or netlify yet.
 
 # Future Enhancements
 - Add category search option
