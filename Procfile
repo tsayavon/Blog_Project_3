@@ -1,1 +1,1 @@
-web: client/npm start
+web: client/npm run start
